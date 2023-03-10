@@ -1,8 +1,8 @@
 ### ¡Hola! I'm Piyush Kumar 👋
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Web Development, Competitive Coding
-- ⚡ Fun fact: I love PC Gaming
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
 
 <br />
 
